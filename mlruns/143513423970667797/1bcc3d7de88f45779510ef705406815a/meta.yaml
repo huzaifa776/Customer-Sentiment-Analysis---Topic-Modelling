@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/1bcc3d7de88f45779510ef705406815a/artifacts
+end_time: 1756127835968
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 1bcc3d7de88f45779510ef705406815a
+run_name: bedecked-bat-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127835472
+status: 3
+tags: []
+user_id: huzaifamahmood

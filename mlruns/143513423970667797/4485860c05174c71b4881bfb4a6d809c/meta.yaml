@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/4485860c05174c71b4881bfb4a6d809c/artifacts
+end_time: 1756127797755
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 4485860c05174c71b4881bfb4a6d809c
+run_name: dapper-sheep-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127797636
+status: 3
+tags: []
+user_id: huzaifamahmood

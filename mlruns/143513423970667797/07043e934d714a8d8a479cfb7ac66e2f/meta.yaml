@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/07043e934d714a8d8a479cfb7ac66e2f/artifacts
+end_time: 1756127798124
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 07043e934d714a8d8a479cfb7ac66e2f
+run_name: masked-cat-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127798007
+status: 3
+tags: []
+user_id: huzaifamahmood

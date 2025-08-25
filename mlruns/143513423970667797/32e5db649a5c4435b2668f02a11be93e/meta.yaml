@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/32e5db649a5c4435b2668f02a11be93e/artifacts
+end_time: 1756127835471
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 32e5db649a5c4435b2668f02a11be93e
+run_name: nebulous-ox-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127835317
+status: 3
+tags: []
+user_id: huzaifamahmood

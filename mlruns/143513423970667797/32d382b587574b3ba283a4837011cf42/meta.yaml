@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/32d382b587574b3ba283a4837011cf42/artifacts
+end_time: 1756127798636
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 32d382b587574b3ba283a4837011cf42
+run_name: thoughtful-cod-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127798490
+status: 3
+tags: []
+user_id: huzaifamahmood

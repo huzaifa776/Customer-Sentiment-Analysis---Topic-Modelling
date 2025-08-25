@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/fbf4b5f8d3c6484aa45acf7c35718ecc/artifacts
+end_time: 1756127796049
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: fbf4b5f8d3c6484aa45acf7c35718ecc
+run_name: rare-bass-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127795960
+status: 3
+tags: []
+user_id: huzaifamahmood

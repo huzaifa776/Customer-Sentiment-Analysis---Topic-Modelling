@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/880c63d40a64498c9929a5bdd220d173/artifacts
+end_time: 1756127795788
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 880c63d40a64498c9929a5bdd220d173
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127794874
+status: 3
+tags: []
+user_id: huzaifamahmood

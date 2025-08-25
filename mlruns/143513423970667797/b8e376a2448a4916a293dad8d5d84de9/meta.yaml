@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/b8e376a2448a4916a293dad8d5d84de9/artifacts
+end_time: 1756127837786
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: b8e376a2448a4916a293dad8d5d84de9
+run_name: lyrical-steed-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127837691
+status: 3
+tags: []
+user_id: huzaifamahmood

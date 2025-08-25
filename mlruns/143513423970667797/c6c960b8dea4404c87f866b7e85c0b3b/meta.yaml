@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/c6c960b8dea4404c87f866b7e85c0b3b/artifacts
+end_time: 1756127836071
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: c6c960b8dea4404c87f866b7e85c0b3b
+run_name: gentle-smelt-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127835969
+status: 3
+tags: []
+user_id: huzaifamahmood

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/a95243820b3e48c49bfc79f2716e8a33/artifacts
+end_time: 1756127795884
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: a95243820b3e48c49bfc79f2716e8a33
+run_name: bustling-seal-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127795790
+status: 3
+tags: []
+user_id: huzaifamahmood

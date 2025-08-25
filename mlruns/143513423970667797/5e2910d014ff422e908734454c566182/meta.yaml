@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/5e2910d014ff422e908734454c566182/artifacts
+end_time: 1756127798395
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 5e2910d014ff422e908734454c566182
+run_name: merciful-pig-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127798231
+status: 3
+tags: []
+user_id: huzaifamahmood

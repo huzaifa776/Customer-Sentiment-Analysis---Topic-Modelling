@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/a571f3d1b65f41bba5278f46cc31c506/artifacts
+end_time: 1756127836382
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: a571f3d1b65f41bba5278f46cc31c506
+run_name: rogue-rat-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127836286
+status: 3
+tags: []
+user_id: huzaifamahmood

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/5bf7683bb12d43a9a23677eb16cb8037/artifacts
+end_time: 1756127837886
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 5bf7683bb12d43a9a23677eb16cb8037
+run_name: bald-dove-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127837788
+status: 3
+tags: []
+user_id: huzaifamahmood

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/1439c0ce4dec4191b15cd3f88b78b876/artifacts
+end_time: 1756127837277
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 1439c0ce4dec4191b15cd3f88b78b876
+run_name: orderly-finch-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127837155
+status: 3
+tags: []
+user_id: huzaifamahmood

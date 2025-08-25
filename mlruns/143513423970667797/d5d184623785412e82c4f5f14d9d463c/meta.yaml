@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/d5d184623785412e82c4f5f14d9d463c/artifacts
+end_time: 1756127797875
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: d5d184623785412e82c4f5f14d9d463c
+run_name: melodic-fish-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127797756
+status: 3
+tags: []
+user_id: huzaifamahmood

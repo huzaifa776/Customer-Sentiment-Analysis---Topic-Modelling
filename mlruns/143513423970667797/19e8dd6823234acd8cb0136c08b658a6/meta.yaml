@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/19e8dd6823234acd8cb0136c08b658a6/artifacts
+end_time: 1756127836819
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 19e8dd6823234acd8cb0136c08b658a6
+run_name: big-pig-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756127836691
+status: 3
+tags: []
+user_id: huzaifamahmood
