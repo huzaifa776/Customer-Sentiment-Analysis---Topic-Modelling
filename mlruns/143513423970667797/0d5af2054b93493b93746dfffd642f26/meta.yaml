@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/0d5af2054b93493b93746dfffd642f26/artifacts
+end_time: 1756562306214
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: 0d5af2054b93493b93746dfffd642f26
+run_name: Optuna_Tuning_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756562306204
+status: 4
+tags: []
+user_id: huzaifamahmood

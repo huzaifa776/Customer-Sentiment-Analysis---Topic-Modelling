@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/c53087e0e73e4ee9b9d322a4bf6dd5e3/artifacts
+end_time: 1756562331967
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: c53087e0e73e4ee9b9d322a4bf6dd5e3
+run_name: angry-shrimp-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756562331865
+status: 3
+tags: []
+user_id: huzaifamahmood

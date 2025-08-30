@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/a86f473b6baf4e4f82737d52f7e3bc73/artifacts
+end_time: 1756562330002
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: a86f473b6baf4e4f82737d52f7e3bc73
+run_name: traveling-calf-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756562329827
+status: 3
+tags: []
+user_id: huzaifamahmood

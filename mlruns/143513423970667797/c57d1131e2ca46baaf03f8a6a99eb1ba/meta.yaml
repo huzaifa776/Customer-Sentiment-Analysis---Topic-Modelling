@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/huzaifamahmood/Desktop/projects/Level%202/Customer%20Sentiment%20Analysis%20%26%20Topic%20Modelling%20/mlruns/143513423970667797/c57d1131e2ca46baaf03f8a6a99eb1ba/artifacts
+end_time: 1756562331768
+entry_point_name: ''
+experiment_id: '143513423970667797'
+lifecycle_stage: active
+run_id: c57d1131e2ca46baaf03f8a6a99eb1ba
+run_name: orderly-carp-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756562331563
+status: 3
+tags: []
+user_id: huzaifamahmood
